@@ -1,1 +1,4 @@
 use zip to open file 
+check database name in application properties
+Provide that name to database for testing purpose
+Or Use any hosted database and apply changes accordingly in application properties.
